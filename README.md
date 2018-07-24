@@ -156,6 +156,7 @@ Now, whenever we omit the `poster` prop, or if it's undefined, the `MovieCard` c
 
 ## Resources
 - [React Default Prop Values](https://facebook.github.io/react/docs/reusable-components.html#default-prop-values)
+- [Prop Validation and Default Values](https://reactjs.org/blog/2013/07/11/react-v0-4-prop-validation-and-default-values.html)
 - [Babel: transform-class-properties](http://babeljs.io/docs/plugins/transform-class-properties/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-props'>Props</a> on Learn.co and start learning to code for free.</p>
